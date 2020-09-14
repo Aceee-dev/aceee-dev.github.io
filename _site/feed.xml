@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Anukul Chand</title>
+    <description>I'm a software developer who loves to learn</description>
+    <link>http://localhost:4000/</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Mon, 14 Sep 2020 21:14:43 +0530</pubDate>
+    <lastBuildDate>Mon, 14 Sep 2020 21:14:43 +0530</lastBuildDate>
+    <generator>Jekyll v3.9.0</generator>
+    
+      <item>
+        <title>Link Test</title>
+        <description>&lt;p&gt;Welcome to my Jekyll Blog. I’m exploring how Jekyll handles links.&lt;/p&gt;
+</description>
+        <pubDate>Mon, 14 Sep 2020 07:00:00 +0530</pubDate>
+        <link>http://localhost:4000/2020/09/14/test-blog.html</link>
+        <guid isPermaLink="true">http://localhost:4000/2020/09/14/test-blog.html</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Link Test 2</title>
+        <description>&lt;p&gt;Welcome to my Jekyll Blog. I’m exploring how Jekyll handles links but second time.&lt;/p&gt;
+</description>
+        <pubDate>Mon, 14 Sep 2020 07:00:00 +0530</pubDate>
+        <link>http://localhost:4000/2020/09/14/test-blog2.html</link>
+        <guid isPermaLink="true">http://localhost:4000/2020/09/14/test-blog2.html</guid>
+        
+        <category>Jekyll</category>
+        
+        <category>Webdev</category>
+        
+        <category>Blogs</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>FoodShala</title>
+        <description>
+</description>
+        <pubDate>Thu, 20 Feb 2020 21:26:00 +0530</pubDate>
+        <link>http://localhost:4000/development/2020/02/20/foodshala.html</link>
+        <guid isPermaLink="true">http://localhost:4000/development/2020/02/20/foodshala.html</guid>
+        
+        <category>JavaScript</category>
+        
+        <category>PHP</category>
+        
+        <category>MySql</category>
+        
+        <category>HTML</category>
+        
+        
+        <category>development</category>
+        
+      </item>
+    
+      <item>
+        <title>E-Voice</title>
+        <description>
+</description>
+        <pubDate>Sun, 21 Feb 2016 02:45:00 +0530</pubDate>
+        <link>http://localhost:4000/development/design/2016/02/21/evoice.html</link>
+        <guid isPermaLink="true">http://localhost:4000/development/design/2016/02/21/evoice.html</guid>
+        
+        <category>WebspeechAPI</category>
+        
+        <category>HTML</category>
+        
+        <category>VanillaJS</category>
+        
+        
+        <category>development</category>
+        
+        <category>design</category>
+        
+      </item>
+    
+      <item>
+        <title>QuizTrivia</title>
+        <description>
+</description>
+        <pubDate>Sat, 20 Feb 2016 21:26:00 +0530</pubDate>
+        <link>http://localhost:4000/development/2016/02/20/quiztrivia.html</link>
+        <guid isPermaLink="true">http://localhost:4000/development/2016/02/20/quiztrivia.html</guid>
+        
+        <category>HTML</category>
+        
+        <category>JS</category>
+        
+        <category>CSS</category>
+        
+        <category>OpenTDB</category>
+        
+        <category>API</category>
+        
+        
+        <category>development</category>
+        
+      </item>
+    
+  </channel>
+</rss>
