@@ -2,7 +2,7 @@
 
     {% include home-hero.html %}
 
-    <main id="portfolio">
+    <!-- <main id="portfolio">
       <div class="container">
         <div class="row">
           <div class="col-md-12">
@@ -16,7 +16,7 @@
 
             <div class="break"></div>
 
-            {% for post in paginator.posts %}
+             {% for post in paginator.posts %}
               <div class="wow fadeIn">
               {% if post.position == "left" %}
                 {% include content-left.html %}
@@ -27,14 +27,12 @@
               {% endif %}
               </div>
             {% endfor %}
-            <p>
-              For more, Visit my <a href="https://github.com/{{ site.github_username }}">Github</a> 😃.
-            </p>
+           
             {% include pagination.html %}
 
           </div>
         </div>
       </div>
-    </main>
-
+    </main> 
+   -->
 {% include footer.html %}
