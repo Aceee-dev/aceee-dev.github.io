@@ -4,6 +4,8 @@ title: About
 permalink: /about/
 ---
 
+## About Me
+
 Hi there, My name is Anukul Chand and thanks for visiting this page. I have recently graduated from [National Institute of Technology,Tiruchirappalli](https://www.nitt.edu/) majoring in `Computer Science and Engineering`. 
 
 In development side, I am interested in `Server Side Development`,`Android App Development` and `Machine learning` respectively. I also enjoy doing competitive programming and mainly use platforms like hackerearth,codechef for practising it. Currently, I am at home and learning new technologies. I am also doing an internship at which I am working as a `backend developer` in `Django` and also enjoy working with some cool people. 

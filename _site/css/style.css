@@ -2223,6 +2223,7 @@ h1, h2, h3, h4, h5, h6 { font-family: 'Merriweather', serif; }
 	1.0 Defaults
 --------------------------------------------------------------*/
 @media (min-width: 1200px) { .container { width: 1200px; } }
+@media screen and (max-width: 1230px) and (max-height: 730px) { .resumeview { display: none; } }
 body { background-color: #e9edf0; -webkit-font-smoothing: antialiased; }
 
 h1, h2, h3, h4, h5, h6 { font-weight: 700; }
