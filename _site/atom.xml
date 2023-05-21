@@ -4,56 +4,20 @@
  <title>Anukul Chand</title>
  <link href="http://localhost:4000/atom.xml" rel="self"/>
  <link href="http://localhost:4000/"/>
- <updated>2020-09-16T09:18:51+05:30</updated>
+ <updated>2023-05-22T01:36:46+05:30</updated>
  <id>http://localhost:4000</id>
  <author>
-   <name>anukul chand</name>
+   <name>Anukul Chand</name>
    <email></email>
  </author>
 
  
  <entry>
-   <title>Link Test</title>
-   <link href="http://localhost:4000/2020/09/14/test-blog.html"/>
-   <updated>2020-09-14T07:00:00+05:30</updated>
-   <id>http://localhost:4000/2020/09/14/test-blog</id>
-   <content type="html">&lt;p&gt;Welcome to my Jekyll Blog. I’m exploring how Jekyll handles links.&lt;/p&gt;
-</content>
- </entry>
- 
- <entry>
-   <title>Link Test 2</title>
-   <link href="http://localhost:4000/2020/09/14/test-blog2.html"/>
-   <updated>2020-09-14T07:00:00+05:30</updated>
-   <id>http://localhost:4000/2020/09/14/test-blog2</id>
-   <content type="html">&lt;p&gt;Welcome to my Jekyll Blog. I’m exploring how Jekyll handles links but second time.&lt;/p&gt;
-</content>
- </entry>
- 
- <entry>
-   <title>FoodShala</title>
-   <link href="http://localhost:4000/development/2020/02/20/foodshala.html"/>
-   <updated>2020-02-20T21:26:00+05:30</updated>
-   <id>http://localhost:4000/development/2020/02/20/foodshala</id>
-   <content type="html">
-</content>
- </entry>
- 
- <entry>
-   <title>E-Voice</title>
-   <link href="http://localhost:4000/development/design/2016/02/21/evoice.html"/>
-   <updated>2016-02-21T02:45:00+05:30</updated>
-   <id>http://localhost:4000/development/design/2016/02/21/evoice</id>
-   <content type="html">
-</content>
- </entry>
- 
- <entry>
-   <title>QuizTrivia</title>
-   <link href="http://localhost:4000/development/2016/02/20/quiztrivia.html"/>
-   <updated>2016-02-20T21:26:00+05:30</updated>
-   <id>http://localhost:4000/development/2016/02/20/quiztrivia</id>
-   <content type="html">
+   <title>Test</title>
+   <link href="http://localhost:4000/2023/05/21/test-blog.html"/>
+   <updated>2023-05-21T19:00:00+05:30</updated>
+   <id>http://localhost:4000/2023/05/21/test-blog</id>
+   <content type="html">&lt;p&gt;Welcome to my Jekyll Blog. I’m exploring  and will update this blog soon.&lt;/p&gt;
 </content>
  </entry>
  
