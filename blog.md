@@ -9,7 +9,7 @@ permalink: /blog/
 
 | Date         |    |     | Title             |
 |:-------------|:---|:---|:------------------|
-| 2023-05-21   |    |    | [Test Blog]({% post_url 2023-05-21-test-blog %}) |
+| 2024-10-09   |    |    | [DB Blog]({% post_url 2024-10-09-test-blog %}) |
 
 
 

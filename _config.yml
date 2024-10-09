@@ -18,8 +18,7 @@ introline: "Hello World !! <br> My name is Anukul Chand."
 email: 'anukulchand1@gmail.com'
 description: "I'm a software developer who loves to learn"
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://aceee-dev.github.io/" # the base hostname & protocol for your site, e.g. https://example.com
-twitter_username: 'cyberfreak123'
+url: "https://aceee-dev.github.io/" 
 github_username: 'aceee-dev'
 linkedin_username: 'anukul-chand-199369148'
 
@@ -90,9 +89,7 @@ pagination:
 ############################################################
 
 ### Phantom settings
-footer_text: '☕'
 admin_name: 'Anukul Chand'
-#google_analytics: "UA-9999999-99" # Update with your own tracking ID
 enable_contact: false
 
 #### Phantom Navigation menu

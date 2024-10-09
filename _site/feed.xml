@@ -5,17 +5,17 @@
     <description>I&apos;m a software developer who loves to learn</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 22 May 2023 01:36:46 +0530</pubDate>
-    <lastBuildDate>Mon, 22 May 2023 01:36:46 +0530</lastBuildDate>
-    <generator>Jekyll v3.9.3</generator>
+    <pubDate>Thu, 10 Oct 2024 02:03:33 +0530</pubDate>
+    <lastBuildDate>Thu, 10 Oct 2024 02:03:33 +0530</lastBuildDate>
+    <generator>Jekyll v3.10.0</generator>
     
       <item>
-        <title>Test</title>
-        <description>&lt;p&gt;Welcome to my Jekyll Blog. I’m exploring  and will update this blog soon.&lt;/p&gt;
+        <title>DB fundamentals</title>
+        <description>&lt;p&gt;Coming soon….&lt;/p&gt;
 </description>
-        <pubDate>Sun, 21 May 2023 19:00:00 +0530</pubDate>
-        <link>http://localhost:4000/2023/05/21/test-blog.html</link>
-        <guid isPermaLink="true">http://localhost:4000/2023/05/21/test-blog.html</guid>
+        <pubDate>Wed, 09 Oct 2024 11:52:00 +0530</pubDate>
+        <link>http://localhost:4000/2024/10/09/test-blog.html</link>
+        <guid isPermaLink="true">http://localhost:4000/2024/10/09/test-blog.html</guid>
         
         
       </item>

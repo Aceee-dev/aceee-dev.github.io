@@ -3,8 +3,7 @@
 Gem::Specification.new do |spec|
   spec.name          = "porfolio"
   spec.version       = "0.1.1"
-  spec.authors       = ["Jami Gibbs"]
-  spec.email         = ["jami0821@gmail.com"]
+  spec.authors       = ["Anukul Chand"]
 
   spec.summary       = "Phantom Jekyll Theme"
   spec.homepage      = "https://plant999/plant999.github.io"

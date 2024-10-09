@@ -4,7 +4,7 @@
  <title>Anukul Chand</title>
  <link href="http://localhost:4000/atom.xml" rel="self"/>
  <link href="http://localhost:4000/"/>
- <updated>2023-05-22T01:36:46+05:30</updated>
+ <updated>2024-10-10T02:03:33+05:30</updated>
  <id>http://localhost:4000</id>
  <author>
    <name>Anukul Chand</name>
@@ -13,11 +13,11 @@
 
  
  <entry>
-   <title>Test</title>
-   <link href="http://localhost:4000/2023/05/21/test-blog.html"/>
-   <updated>2023-05-21T19:00:00+05:30</updated>
-   <id>http://localhost:4000/2023/05/21/test-blog</id>
-   <content type="html">&lt;p&gt;Welcome to my Jekyll Blog. I’m exploring  and will update this blog soon.&lt;/p&gt;
+   <title>DB fundamentals</title>
+   <link href="http://localhost:4000/2024/10/09/test-blog.html"/>
+   <updated>2024-10-09T11:52:00+05:30</updated>
+   <id>http://localhost:4000/2024/10/09/test-blog</id>
+   <content type="html">&lt;p&gt;Coming soon….&lt;/p&gt;
 </content>
  </entry>
  
