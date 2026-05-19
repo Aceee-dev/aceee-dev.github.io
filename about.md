@@ -6,8 +6,21 @@ permalink: /about/
 
 ## About Me
 
-Hi there, My name is Anukul Chand and thanks for visiting this page. I graduated from [National Institute of Technology,Tiruchirappalli](https://www.nitt.edu/) majoring in `Computer Science and Engineering`. 
+Hi there, I'm Anukul Chand — a Lead Software Engineer at Samsung Research Institute Bangalore with 5+ years of experience in Android and Chromium development. I graduated from **National Institute of Technology, Tiruchirappalli** with a degree in Computer Science and Engineering.
 
-I am interested in `Android App Development`,  `Server Side Development` and `Machine learning` respectively. I also enjoy doing competitive programming and learning new technologies.
+### What I Do
 
-Leaving tech stuff aside, I enjoy movie,music,football and badminton. I absolutely adore nature and natural beings.
+I build scalable features with a focus on performance and reliability. My core expertise spans:
+
+- **Android & Chromium Development** — Built cross-platform features for Samsung Internet Browser, including DOM sanitization, screenshot masking pipelines, and real-time content extraction
+- **AI/ML Systems** — Developed LLM-powered agents for bug resolution, task creation, and code reviews. Worked on MCP integration and LLM-driven browser workflows
+- **Agentic Architectures** — Optimized token consumption for agentic browsing, reducing payloads without feature regressions
+- **Open Source** — Contributed to Chromium Open Source (Text Selection, WebViews), resolving compatibility issues and improving feature stability
+
+### Tech Stack
+
+**Languages:** C++, Java, Kotlin, Python, JavaScript  
+**Frameworks & Tools:** Android SDK, Chromium, Django, Git, MySQL, Shell, Mockito, JUnit  
+**Domains:** AI/ML (LLM-based systems, agentic workflows), Concurrency, Performance Optimization
+
+When I'm not coding, I enjoy movies, music, football, and badminton. I absolutely love nature and natural beings.

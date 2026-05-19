@@ -349,12 +349,6 @@ button.btn, input.btn {
       text-align: center;
     }
   }
-  .section-jump {
-    float: right;
-    @include bp-xsmall {
-      float: none;
-    }
-  }
 }
 
 /*--------------------------------------------------------------
