@@ -91,7 +91,7 @@ pagination:
 ### Phantom settings
 admin_name: 'Anukul Chand'
 footer_text: 'Anukul Chand'
-enable_contact: true
+enable_contact: false
 
 #### Phantom Navigation menu
 enable_nav: true

@@ -3,15 +3,12 @@
         <div class="row">
           <div class="col-xs-12 col-sm-6 col-md-2 col-md-offset-1">
             <p class="text-muted text-left"><a href="{{ site.url }}">&copy; {{ site.time | date: '%Y' }} {{ site.admin_name }}</a></p>
-          </div>
-          <div class="col-xs-12 col-sm-6 col-md-3 footer-links">
             {% if site.github_username != '' %}
             <a href="https://github.com/{{ site.github_username }}" target="_blank" rel="noopener" title="GitHub"><i class="fa fa-github"></i></a>
             {% endif %}
             {% if site.linkedin_username != '' %}
             <a href="https://linkedin.com/in/{{ site.linkedin_username }}" target="_blank" rel="noopener" title="LinkedIn"><i class="fa fa-linkedin"></i></a>
             {% endif %}
-            <a href="mailto:{{ site.email }}" title="Email"><i class="fa fa-envelope"></i></a>
           </div>
         </div>
       </div>
