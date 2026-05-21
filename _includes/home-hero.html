@@ -1,48 +1,55 @@
-<div class="container">
+<div class="hero-wrapper">
 
-  <div class="row">
+  <div class="container">
 
-    <div class="col-md-12">
+    <div class="row">
 
-      <div class="hero-container">
+      <div class="col-md-12">
 
-        <div class="hero-content">
+        <div class="hero-container">
 
-          {% if site.title != '' %}
-          <h1 class="text-center">{{site.introline}}</h1>
-          {% endif %}
+          <div class="hero-content">
 
-          {% if site.description != '' or site.enable_contact == true %}
-          <p class="text-center hero-description">
-            {% if site.description != '' %}
-            {{site.description}}
+            <span class="hero-badge">Software Developer</span>
+
+            {% if site.title != '' %}
+            <h1 class="text-center wow fadeIn">{{site.introline}}</h1>
             {% endif %}
 
-            {% if site.enable_contact == true %}
-            <span class="contact-link">{% include contact.html %}</span>
-            {% include contact-modal.html %}
-            {% endif %}
-          </p>
-          {% endif %}
+            {% if site.description != '' or site.enable_contact == true %}
+            <p class="text-center hero-description wow fadeIn" data-wow-delay="0.2s">
+              {% if site.description != '' %}
+              {{site.description}}
+              {% endif %}
 
-          <div class="hero-buttons">
+              {% if site.enable_contact == true %}
+              <br>
+              <span class="contact-link">{% include contact.html %}</span>
+              {% include contact-modal.html %}
+              {% endif %}
+            </p>
+            {% endif %}
 
-            {% if site.linkedin_username != '' %}
-              <a href="https://linkedin.com/in/{{ site.linkedin_username }}"><button class="btn btn-default btn-lg"><i class="fa fa-linkedin fa-lg"></i> LinkedIn</button></a>
-            {% endif %}
-            {% if site.github_username != '' %}
-              <a href="https://github.com/{{ site.github_username }}"><button class="btn btn-default btn-lg"><i class="fa fa-github fa-lg"></i> GitHub</button></a>
-            {% endif %}
+            <div class="hero-buttons wow fadeIn" data-wow-delay="0.4s">
+
+              {% if site.linkedin_username != '' %}
+                <a href="https://linkedin.com/in/{{ site.linkedin_username }}"><button class="btn btn-default btn-lg"><i class="fa fa-linkedin fa-lg"></i> LinkedIn</button></a>
+              {% endif %}
+              {% if site.github_username != '' %}
+                <a href="https://github.com/{{ site.github_username }}"><button class="btn btn-default btn-lg"><i class="fa fa-github fa-lg"></i> GitHub</button></a>
+              {% endif %}
+
+            </div>
 
           </div>
 
         </div>
 
-      </div>
+        <a class="section-jump text-center wow fadeIn" data-wow-delay="0.6s" href="#portfolio">
+          <i class="fa fa-angle-down fa-3x"></i>
+        </a>
 
-      <a class="section-jump text-center" href="#portfolio">
-        <i class="fa fa-angle-down fa-3x"></i>
-      </a>
+      </div>
 
     </div>
 
